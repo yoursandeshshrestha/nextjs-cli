@@ -1,4 +1,4 @@
-# Basic Next App
+# npx basic-next-app
 
 A minimal boilerplate to quickly create Next.js applications with essential configurations like Tailwind CSS and a custom layout setup. This tool helps you get started with a pre-configured Next.js project without needing to set up a lot of initial configurations.
 
